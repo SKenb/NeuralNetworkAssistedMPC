@@ -10,5 +10,8 @@ Here you can find the implementation of our NN-A-MPC which was tested on a heate
 
 - A0_TrainNN
 
-    Within the folder, you can find the Python code used for training the NN which is used in the design-space-exploitation (DSE).
+    Within the folder you can find the Python code used for training the NN which is used in the design-space-exploitation (DSE).
 
+- A1_NNAssistedMPC
+
+    Within the folder you can find the implemented NN-A-MPC along the simulation of the real reactor. Find details on how to start/use the NN-A-MPC within the README.md in the folder. 
