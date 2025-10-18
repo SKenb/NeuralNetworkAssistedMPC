@@ -6,8 +6,8 @@ The Neural-Network Assisted Model Predictive Control (NN-A-MPC) extends standard
 
 ## Info
 
-Here you can find the implementation of our NN-A-MPC which was tested on a heated flow reactor. You can find all the detail of the approach in [TODO](https://todo.at/).
-
+Here you can find the implementation of our NN-A-MPC which was tested on a heated flow reactor. You can find all the detail of the approach in our publication [TODO](https://todo.at/). Moreover, more details are also found [here](doc/ESI.pdf)
+.
 - A0_TrainNN
 
     Within the folder you can find the Python code used for training the NN which is used in the design-space-exploitation (DSE).
@@ -15,3 +15,7 @@ Here you can find the implementation of our NN-A-MPC which was tested on a heate
 - A1_NNAssistedMPC
 
     Within the folder you can find the implemented NN-A-MPC along the simulation of the real reactor. Find details on how to start/use the NN-A-MPC within the README.md in the folder. 
+
+- A2_NNAMPC_Experiment
+
+    Within the folder you can find the implementation / adoption of the NN-A-MPC for tests on the real flow reactor. 
