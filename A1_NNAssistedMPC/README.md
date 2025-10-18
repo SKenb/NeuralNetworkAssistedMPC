@@ -27,3 +27,5 @@ Sentinel (Guard/Police) defines the method which is used to overcome model uncer
 
 - main.py
 - Execute form: "./"
+
+- Use: compareResults.py to generate comparison plot.
