@@ -6,7 +6,7 @@ The Neural-Network Assisted Model Predictive Control (NN-A-MPC) extends standard
 
 ## Info
 
-Here you can find the implementation of our NN-A-MPC which was tested on a heated flow reactor. You can find all the detail of the approach in our publication [TODO](https://todo.at/). Moreover, more details are also found [here](doc/ESI.pdf)
+Here you can find the implementation of our NN-A-MPC which was tested on a heated flow reactor. You can find all the detail of the approach in our publication [Neural-Network Assisted MPC for flow reactors including reactions]([https://todo.at/]). Moreover, more details are also found [here](https://zenodo.org/records/21620964)
 .
 - A0_TrainNN
 
